@@ -1,0 +1,14 @@
+01 - Everything Is Awesome.mp3	/home/pi/Halloween/01 - Everything Is Awesome.mp3
+01 - Monster Mash.mp3	/home/pi/Halloween/01 - Monster Mash.mp3
+03 - This Is Halloween.mp3	/home/pi/Halloween/03 - This Is Halloween.mp3
+04 - Jacks Lament.mp3	/home/pi/Halloween/04 - Jacks Lament.mp3
+04 - Thriller.mp3	/home/pi/Halloween/04 - Thriller.mp3
+08 - Creep.mp3	/home/pi/Halloween/08 - Creep.mp3
+10 - Kidnap The Sandy Claws.mp3	/home/pi/Halloween/10 - Kidnap The Sandy Claws.mp3
+13 - I Put a Spell on You.mp3	/home/pi/Halloween/13 - I Put a Spell on You.mp3
+13 - Oogie Boogie.mp3	/home/pi/Halloween/13 - Oogie Boogie.mp3
+13 - The Addams Family.mp3	/home/pi/Halloween/13 - The Addams Family.mp3
+14 - Sallys Song.mp3	/home/pi/Halloween/14 - Sallys Song.mp3
+15 - Purple People Eater.mp3	/home/pi/Halloween/15 - Purple People Eater.mp3
+15 - The Apology Song.mp3	/home/pi/Halloween/15 - The Apology Song.mp3
+Ghost Riders In the Sky.mp3	/home/pi/Halloween/Ghost Riders In the Sky.mp3
