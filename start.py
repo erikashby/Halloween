@@ -1,2 +1,6 @@
+import os
+import time
+
 while True:
-	python /home/pi/lightshowpi/py/synchronized_lights.py
+	os.system('sudo python /home/pi/lightshowpi/py/synchronized_lights.py')
+	time.sleep(10)
